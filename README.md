@@ -27,8 +27,13 @@ import "@bylickilabs/ai-monitoring-layer";
 
 ## 🌐 CDN
 ```
-https://cdn.jsdelivr.net/npm/@bylickilabs/ai-monitoring-layer/ai.min.js
-https://unpkg.com/@bylickilabs/ai-monitoring-layer/ai.min.js
+<script src="https://cdn.jsdelivr.net/npm/@bylickilabs/ai-monitoring-layer/ai.min.js" defer></script>
+<script src="https://unpkg.com/@bylickilabs/ai-monitoring-layer/ai.min.js" defer></script>
+```
+
+> Optional
+```
+<script src="ai.min.js" defer></script>
 ```
 
 ---
