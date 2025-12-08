@@ -4,9 +4,6 @@
 | [LIVE DEMO](https://bylickilabs.github.io/EncryptStudio-Website/) |
 |---|
 
-| <img width="1280" height="640" alt="ai layer" src="https://github.com/user-attachments/assets/572c80f1-21a8-4459-be2f-6fea63a272da" /> |
-|---|
-
 > The **AI Monitoring Layer** is a fully client-side monitoring, diagnostics, and anomaly-scoring engine designed for modern web applications.  
   - It captures performance signals, network failures, runtime errors, FPS degradation, offline events, and generates structured incident reports — including optional screenshot export (via html2canvas).
 
