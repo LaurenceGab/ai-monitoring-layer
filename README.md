@@ -1,8 +1,17 @@
 # 🧠 BYLICKILABS – AI Monitoring Layer  
 **Version 1.1.0 — Client-Side Analytics & Intelligent Anomaly Detection**
 
+| <img width="1280" height="640" alt="ai layer" src="https://github.com/user-attachments/assets/572c80f1-21a8-4459-be2f-6fea63a272da" /> |
+|---|
+
 > The **AI Monitoring Layer** is a fully client-side monitoring, diagnostics, and anomaly-scoring engine designed for modern web applications.  
   - It captures performance signals, network failures, runtime errors, FPS degradation, offline events, and generates structured incident reports — including optional screenshot export (via html2canvas).
+
+<br>
+
+---
+
+<br>
 
 ## 🚀 Key Features
 - **Real-time JavaScript error tracking**
@@ -25,13 +34,29 @@ Import inside your project:
 import "@bylickilabs/ai-monitoring-layer";
 ```
 
+<br>
+
+---
+
+<br>
+
 ## 🌐 CDN
 ```
 <script src="https://cdn.jsdelivr.net/npm/@bylickilabs/ai-monitoring-layer/ai.min.js" defer></script>
 <script src="https://unpkg.com/@bylickilabs/ai-monitoring-layer/ai.min.js" defer></script>
 ```
 
+> Dependencies
+
+```
+<script src="https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js"></script>
+```
+
+<br>
+
 ---
+
+<br>
 
 ## 🌐 CDN Integration
 
@@ -74,8 +99,11 @@ if ("serviceWorker" in navigator) {
 }
 </script>
 ```
+<br>
 
 ---
+
+<br>
 
 ## 📘 Usage
 ```js
