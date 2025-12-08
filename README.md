@@ -31,25 +31,6 @@ import "@bylickilabs/ai-monitoring-layer";
 <script src="https://unpkg.com/@bylickilabs/ai-monitoring-layer/ai.min.js" defer></script>
 ```
 
-> Optional
-```
-<script src="ai.min.js" defer></script>
-
-<script>
-if ("serviceWorker" in navigator) {
-    window.addEventListener("load", () => {
-        navigator.serviceWorker.register("/service-worker.js")
-            .then(reg => {
-                console.log("PWA Service Worker activated:", reg.scope);
-            })
-            .catch(err => {
-                console.error("PWA Service Worker error:", err);
-            });
-    });
-}
-</script>
-```
-
 ---
 
 ## 🌐 CDN Integration
@@ -78,6 +59,20 @@ function loadFallback() {
 ## 🔧 Local Integration
 ```html
 <script src="ai.min.js" defer></script>
+
+<script>
+if ("serviceWorker" in navigator) {
+    window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/service-worker.js")
+            .then(reg => {
+                console.log("PWA Service Worker activated:", reg.scope);
+            })
+            .catch(err => {
+                console.error("PWA Service Worker error:", err);
+            });
+    });
+}
+</script>
 ```
 
 ---
