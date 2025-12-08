@@ -1,6 +1,6 @@
 {
   "name": "@bylickilabs/ai-monitoring-layer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "BYLICKILABS AI Monitoring Layer: Client-side analytics, anomaly detection, FPS tracking, network monitoring, incident export, AI Scoring 2.0.",
   "main": "ai.js",
   "files": [
