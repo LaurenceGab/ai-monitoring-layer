@@ -1,5 +1,5 @@
 # 🧠 BYLICKILABS – AI Monitoring Layer  
-**Version 1.1.0 — Client-Side Analytics & Intelligent Anomaly Detection**
+**Version 1.0.0 — Client-Side Analytics & Intelligent Anomaly Detection**
 
 | [LIVE DEMO](https://bylickilabs.github.io/EncryptStudio-Website/) |
 |---|
